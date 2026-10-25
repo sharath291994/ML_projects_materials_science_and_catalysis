@@ -34,7 +34,7 @@ Kindly note that this is a beta version. The utility is undergoing further tests
 ### Installation
 As shown below, use the Windows Command Prompt (cmd.exe) to clone the repository into a directory in your local machine, and install Zacros_CE_fit utility using pip.
 ```bash
-git clone https://github.com/sharath291994/CE_fit.git
+git clone https://github.com/sharath291994/ML_projects_materials_science_and_catalysis/Zacros-KMC-CE-fit-CLI.git
 cd CE_fit
 pip install .
 ```
