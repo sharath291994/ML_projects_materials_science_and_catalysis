@@ -26,8 +26,6 @@ Input file: `methane_steam_reforming_data.csv`
 - The five coverages sum to less than one; the remainder represents vacant sites in the illustrative generation scheme.
 - The supplied dataset contains no missing values.
 
-The generation scheme uses an activated temperature dependence, a saturating pressure contribution, coverage interactions, and approximately 8% multiplicative noise. Its parameters are illustrative rather than calibrated physical constants.
-
 ## Analysis workflow
 
 ### 1. Feature association analysis
